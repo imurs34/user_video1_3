@@ -1,0 +1,290 @@
+[
+  {
+    "start": 30.04, 
+    "end": 40.04, 
+    "ocr_result": [
+      {
+        "text": " tate MECHANICS EVERYONE UANTUM Current Loop in a Magnetic Field MECHANICS Precession and Pushes and Pulls ", 
+        "location": [
+          0, 
+          0, 
+          1536, 
+          846
+        ], 
+        "block_num": 0
+      }
+    ], 
+    "shot_id": 2
+  }, 
+  {
+    "start": 110.04, 
+    "end": 120.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  Summary of behavior of current loops in a magnetic field", 
+        "location": [
+          99, 
+          29, 
+          1197, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " N \"\u201cequivalent\u00ae magnetic eT needle direction of current flow s around loop", 
+        "location": [
+          36, 
+          103, 
+          550, 
+          241
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": " Oersted showed us that a current loop acts like an effective magnet. The effective magnet is represented by a needle with a North and South pole as determined by our second right hand rule. Curl the fingers of the right hand in the direction of the loop and the thumb points in the direction of the North pole. While the current loop shares some properties of magnetic needles, its motion in a magnetic field is a bit different. It precesses instead of oscillating.", 
+        "location": [
+          551, 
+          117, 
+          732, 
+          487
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " LUPUle HITS \u20achs OF UIE Pehle Hana Wl ule direction of the loop and the thumb points in the direction of the North pole. While the current loop shares some properties of magnetic needles, its motion in a magnetic field is a bit different. It precesses instead of oscillating.   \u00ab) UANTUM Current Loop in a Magnetic Field MECHANICS Precession and Pushes and Pulls", 
+        "location": [
+          0, 
+          317, 
+          1536, 
+          442
+        ], 
+        "block_num": 3
+      }
+    ], 
+    "shot_id": 10
+  }, 
+  {
+    "start": 200.04, 
+    "end": 210.04, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  The motion we call precession", 
+        "location": [
+          365, 
+          29, 
+          612, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": " path traced out by tip of ~~ ~: ", 
+        "location": [
+          94, 
+          136, 
+          223, 
+          220
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          29, 
+          149, 
+          67, 
+          219
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " ", 
+        "location": [
+          295, 
+          149, 
+          270, 
+          219
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " Precession is a complex motion that is similar to oscillation, but different. The effective needle traces out a circle and travels along the surface of a cone with the plane of the circle perpendicular to the direction of the magnetic field. The rate that the tip traces out the circle is proportional to the strength of the magnetic field. The projection remains constant as a function of time.", 
+        "location": [
+          551, 
+          175, 
+          734, 
+          438
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": " uonoefoid time 0", 
+        "location": [
+          49, 
+          375, 
+          384, 
+          231
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "   UANTUM Current Loop in a Magnetic Field MECHANICS Precession and Pushes and Pulls", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          109
+        ], 
+        "block_num": 6
+      }
+    ], 
+    "shot_id": 18
+  }, 
+  {
+    "start": 350.04, 
+    "end": 0.0, 
+    "ocr_result": [
+      {
+        "text": "[TITLE]  In an inhomogeneous field, the current loop feels a push", 
+        "location": [
+          115, 
+          29, 
+          1153, 
+          55
+        ], 
+        "block_num": 0
+      }, 
+      {
+        "text": "", 
+        "location": [
+          486, 
+          173, 
+          80, 
+          229
+        ], 
+        "block_num": 1
+      }, 
+      {
+        "text": "", 
+        "location": [
+          45, 
+          174, 
+          80, 
+          229
+        ], 
+        "block_num": 2
+      }, 
+      {
+        "text": " To determine the push or pull, we first draw the fat arrow for the inhomogeneous field and the effective needles for each current loop. The axis of increasing magnetic field is up as is the field, so we find the push is large and up, moderate and up, none, and large and down. Hence, the current loop will both precess and feel a push or pull in a nonuniform magnetic field.", 
+        "location": [
+          603, 
+          179, 
+          726, 
+          356
+        ], 
+        "block_num": 3
+      }, 
+      {
+        "text": " o-_-_> 7", 
+        "location": [
+          142, 
+          231, 
+          14, 
+          136
+        ], 
+        "block_num": 4
+      }, 
+      {
+        "text": "", 
+        "location": [
+          436, 
+          251, 
+          9, 
+          14
+        ], 
+        "block_num": 5
+      }, 
+      {
+        "text": "", 
+        "location": [
+          208, 
+          249, 
+          78, 
+          80
+        ], 
+        "block_num": 6
+      }, 
+      {
+        "text": "", 
+        "location": [
+          446, 
+          261, 
+          33, 
+          97
+        ], 
+        "block_num": 7
+      }, 
+      {
+        "text": " SS N", 
+        "location": [
+          298, 
+          287, 
+          114, 
+          14
+        ], 
+        "block_num": 8
+      }, 
+      {
+        "text": "", 
+        "location": [
+          200, 
+          322, 
+          10, 
+          14
+        ], 
+        "block_num": 9
+      }, 
+      {
+        "text": " Large and up no small and up", 
+        "location": [
+          57, 
+          422, 
+          290, 
+          75
+        ], 
+        "block_num": 10
+      }, 
+      {
+        "text": " large and down", 
+        "location": [
+          395, 
+          423, 
+          148, 
+          69
+        ], 
+        "block_num": 11
+      }, 
+      {
+        "text": "", 
+        "location": [
+          308, 
+          431, 
+          75, 
+          20
+        ], 
+        "block_num": 12
+      }, 
+      {
+        "text": "   UANTUM Current Loop in a Magnetic Field MECHANICS Precession and Pushes and Pulls", 
+        "location": [
+          0, 
+          609, 
+          1536, 
+          109
+        ], 
+        "block_num": 13
+      }
+    ], 
+    "shot_id": 29
+  }
+]
